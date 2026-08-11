@@ -4,7 +4,7 @@
 
 Mi nombre es Camila Andrea Castellanos Roncancio. Soy estudiante de doctorado y me interesa fortalecer mis habilidades en investigación, análisis de datos y computación estadística.
 
-# Formación e intereses académicos
+# Formación e intereses académicos :book:
 
 Mis principales áreas de interés incluyen:
 
@@ -14,7 +14,7 @@ Mis principales áreas de interés incluyen:
 
 - Neurociencia social 
 
-# Objetivos de aprendizaje
+# Objetivos de aprendizaje :mortar_board:
 
 Durante este taller espero:
 
