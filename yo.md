@@ -33,3 +33,7 @@ Aplicar estas herramientas en mis proyectos de investigación.
 Espero utilizar las habilidades adquiridas para mejorar la trazabilidad, la organización y la reproducibilidad de mi trabajo académico.
 
 La documentación clara y el control de versiones son componentes importantes de una investigación reproducible.
+
+# Otros datos interesantes sobre mí
+
+Me gustan los perros, tengo una perrita de 5 años que se llama Canela y un perrito de 3 meses que se llama Ópalo. 
